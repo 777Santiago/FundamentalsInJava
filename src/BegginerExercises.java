@@ -37,5 +37,6 @@ public class BegginerExercises {
         int b = 2;
         int suma = a+b;
         System.out.println(suma);
+
     }
 }
